@@ -1,6 +1,0 @@
-﻿  Te.cpp
-C:\code\Te\Te\Te.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
-C:\code\Te\Te\Te.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
-C:\code\Te\Te\Te.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
-C:\code\Te\Te\Te.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
-  Te.vcxproj -> C:\code\Te\Debug\Te.exe
