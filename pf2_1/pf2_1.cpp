@@ -38,7 +38,7 @@ int main()
 			sum += pow(2, k) * vec[j];
 			k--;
 		}
-		//cout << sum << " ";
+		
 		if (sum < 26) cout << char('A' + sum);
 		else if (sum < 52) cout << char('a' + sum - 26);
 		else if (sum < 62) cout << sum - 52;
